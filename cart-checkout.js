@@ -1,7 +1,3 @@
-// ============================================================================
-// THÀNH VIÊN 3: GIỎ VÉ, TÍNH GIÁ ĐỘNG THEO ĐỐI TƯỢNG, VOUCHER & VALIDATE FORM
-// ============================================================================
-
 window.VietRail = window.VietRail || {};
 
 VietRail.PASSENGER_DISCOUNTS = {
